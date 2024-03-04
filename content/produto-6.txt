@@ -1,0 +1,3 @@
+O produto Óculos de Sol Aviador;
+Tem como características Óculos de sol estilo aviador, com lentes polarizadas e armação de metal resistente.;
+E o preço dela é R$20.00.

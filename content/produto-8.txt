@@ -1,0 +1,3 @@
+O produto Livro de Ficção;
+Tem como características Best-seller internacional de ficção, uma história envolvente que cativa os leitores.;
+E o preço dela é R$20.00.

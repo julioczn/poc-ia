@@ -1,0 +1,3 @@
+O produto Tênis Esportivo;
+Tem como características Tênis esportivo de alta performance, com amortecimento e suporte ideais para corridas.;
+E o preço dela é R$20.00.

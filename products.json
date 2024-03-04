@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Camiseta Branca",
+    "description": "Camiseta básica branca, feita de algodão macio e confortável.",
+    "price": 20
+  },
+  {
+    "id": 2,
+    "name": "Calça Jeans Skinny",
+    "description": "Calça jeans de corte skinny, com lavagem média e detalhes desgastados.",
+    "price": 20
+  },
+  {
+    "id": 3,
+    "name": "Tênis Esportivo",
+    "description": "Tênis esportivo de alta performance, com amortecimento e suporte ideais para corridas.",
+    "price": 20
+  },
+  {
+    "id": 4,
+    "name": "Bolsa de Couro",
+    "description": "Bolsa de ombro elegante feita de couro genuíno, com várias divisões internas.",
+    "price": 20
+  },
+  {
+    "id": 5,
+    "name": "Relógio de Pulso",
+    "description": "Relógio de pulso analógico com pulseira de aço inoxidável e mostrador cronográfico.",
+    "price": 20
+  },
+  {
+    "id": 6,
+    "name": "Óculos de Sol Aviador",
+    "description": "Óculos de sol estilo aviador, com lentes polarizadas e armação de metal resistente.",
+    "price": 20
+  },
+  {
+    "id": 7,
+    "name": "Bateria Externa Portátil",
+    "description": "Bateria externa compacta com capacidade de carregar smartphones e tablets rapidamente.",
+    "price": 20
+  },
+  {
+    "id": 8,
+    "name": "Livro de Ficção",
+    "description": "Best-seller internacional de ficção, uma história envolvente que cativa os leitores.",
+    "price": 20
+  },
+  {
+    "id": 9,
+    "name": "Fone de Ouvido Bluetooth",
+    "description": "Fone de ouvido sem fio com cancelamento de ruído, perfeito para ouvir música em movimento.",
+    "price": 20
+  },
+  {
+    "id": 10,
+    "name": "Câmera Fotográfica DSLR",
+    "description": "Câmera DSLR profissional com sensor de alta resolução e diversas opções de lentes.",
+    "price": 20
+  }
+]

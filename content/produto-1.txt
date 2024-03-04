@@ -1,0 +1,3 @@
+O produto Camiseta Branca;
+Tem como características Camiseta básica branca, feita de algodão macio e confortável.;
+E o preço dela é R$20.00.
